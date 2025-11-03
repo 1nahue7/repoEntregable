@@ -1,0 +1,22 @@
+{
+  "name": "proyecto-alquiler",
+  "version": "1.0.0",
+  "description": "Sistema de alquileres de equipos y vehículos",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "@apollo/server": "^4.9.5",
+    "graphql": "^16.8.1",
+    "mongoose": "^8.0.3",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.2",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
