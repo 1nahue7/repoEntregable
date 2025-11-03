@@ -241,5 +241,3 @@ proyecto-alquiler/
 - **jsonwebtoken** - JWT
 - **dotenv** - Variables de entorno
 - **nodemon** - Desarrollo
-
-¡Listo para usar! 🎉
